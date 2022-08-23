@@ -1,0 +1,26 @@
+body{
+    background-color: #40464e;
+}
+
+/* header section row css start*/
+.best-five-contain{
+    text-align: center;
+    justify-content: center;
+}
+
+.best-five{
+    font-family: 'Berkshire Swash';
+    font-weight: 400;
+    font-size: 76px;
+    text-align: center;
+    color: #dc143c;
+}
+
+.best-five-pre{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+}
+
+/* header section row css start*/
